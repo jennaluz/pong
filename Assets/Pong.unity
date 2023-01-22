@@ -945,7 +945,7 @@ MonoBehaviour:
   pausePlay: {fileID: 603199028}
   winner: {fileID: 1087153977}
   paddleSpeed: 9
-  p1Score: 0
+  p1Score: 9
   p2Score: 0
 --- !u!1 &920424613
 GameObject:
