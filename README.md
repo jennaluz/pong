@@ -18,7 +18,7 @@ Running the Pong application will require Unity. If you do not have Unity instal
 1. Clone this git reposity into a path on your machine.
 2. Open _Unity Hub_.
 3. In the top right corner, click _Open_. Select the cloned git repository. Single click to open the project in the _Unity Editor_.
-4. Under _File_, select _Build and Run_. Alternatively, press **cmd+B** (Mac) or **ctrl+B** (Windows) to build and run the application.
+4. In the upper left corner, under _File_, select _Build and Run_. Alternatively, press **cmd+B** (Mac) or **ctrl+B** (Windows) to build and run the application.
 
 ## Installing Unity
 There are two parts to the installation: downloading **Unity Hub** and downloading the **Unity Editor**.
