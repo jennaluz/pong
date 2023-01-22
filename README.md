@@ -1,7 +1,7 @@
 # Pong
 
-## Quick Launch
+### Quick Launch
 
-## Compiling the Code
+### Compiling the Code
 
-## Installing Unity
+### Installing Unity
